@@ -1,3 +1,4 @@
+For full docs, contact to the plugin owner. 
 # Lolisoft OrderFlow Import and Sync for Allegro and WooCommerce
 
 **Turn WooCommerce into your Allegro operations hub.** Import offers, keep stock and prices aligned, pull Allegro orders into WooCommerce, and manage day-to-day sync work from one admin panel.
